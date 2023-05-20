@@ -111,7 +111,7 @@ header{
     text-transform: capitalize;
 }
 #items{
-    height: 300vh;
+    height: 250vh;
     padding: 10px;
     background-color: plum;
     width: auto;
@@ -120,7 +120,7 @@ header{
     padding-top: 50px;
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 50px;
 }
 .card{
     height: 300px;
