@@ -18,10 +18,8 @@ header{
     align-items: center;
     padding: 0 100px;
 }
-.logo{
-    font-size: 28px;
-    font-weight: bold;
-    color: whitesmoke;
+.logo img{
+    height: 50px;
 }
 #hamburger{
     display: none;
@@ -127,7 +125,7 @@ header{
     flex: 1 0 200px;
     border-radius: 30px;
     text-transform: capitalize;
-    background-color: palevioletred;
+    background-color: transparent;
 }
 .card img{
     height: 300px;
